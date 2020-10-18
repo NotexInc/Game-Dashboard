@@ -1,0 +1,12 @@
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\bin\Debug\Game dashboard.exe.config
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\bin\Debug\Game dashboard.exe
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\bin\Debug\Game dashboard.pdb
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.csprojAssemblyReference.cache
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game_dashboard.Form1.resources
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game_dashboard.Properties.Resources.resources
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.csproj.GenerateResource.cache
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.csproj.CopyComplete
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.exe
+C:\Users\Fyrax\source\repos\Game dashboard\Game dashboard\obj\Debug\Game dashboard.pdb
